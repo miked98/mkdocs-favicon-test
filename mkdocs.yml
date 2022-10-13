@@ -1,0 +1,18 @@
+site_name: Favicon Size Checker
+site_author: Mike Deischle
+
+theme:
+  name: material
+  language: de
+  font: false
+  logo: assets/street.png
+  favicon: assets/street.png
+  features:
+    - navigation.top
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.tertiary
+    - navigation.sections
+    - page.toc
+    - content.tabs.link
+    - search.share
